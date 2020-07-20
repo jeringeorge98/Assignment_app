@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979293504596",
+    "firebase_url": "https://assignment-eb738.firebaseio.com",
+    "project_id": "assignment-eb738",
+    "storage_bucket": "assignment-eb738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979293504596:android:4881270d74d231c59199c1",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979293504596-1lrmigphlf2d5av9t8rhsklelkealif5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuU21RMPU_UmdeKf7yudOF-U0YliVCCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979293504596-1lrmigphlf2d5av9t8rhsklelkealif5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
